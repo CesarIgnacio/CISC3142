@@ -1,0 +1,14 @@
+Commands sheet:
+
+    - To check for new changes
+        git status
+    
+    - To add the new changes
+        git add [file 1] [file 2] etc.
+    
+    - To commint changes
+        git commit -m "[explanatory message]"
+    
+    
+
+
