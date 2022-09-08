@@ -1,0 +1,84 @@
+Script started on 2022-09-08 00:01:59-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="145" LINES="30"]
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# mkdir newFOl[K[Kolder
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# mv newFolder[Kr folder
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# ls
+[0m[01;32mREADME.md[0m  [34;42mfolder[0m  [01;32mhello[0m  [01;32mhello.cpp[0m  [01;32mscript-2022-09-08.log[0m  [01;32mtime-2022-09-08.txt[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# mv g[Khello.cpp ./folder
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# ls
+[0m[01;32mREADME.md[0m  [34;42mfolder[0m  [01;32mhello[0m  [01;32mscript-2022-09-08.log[0m  [01;32mtime-2022-09-08.txt[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# cd folder
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folderroot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folder# ls
+[0m[01;32mhello.cpp[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folderroot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folder# mv[K[Kcp folder [K[K[K[K[K[K[Khello.cpp hola/[K.cpp
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folderroot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folder# ls
+[0m[01;32mhello.cpp[0m  [01;32mhola.cpp[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folderroot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folder# mv hello.cpp ./
+mv: 'hello.cpp' and './hello.cpp' are the same file
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folderroot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folder# ls
+[0m[01;32mhello.cpp[0m  [01;32mhola.cpp[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folderroot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folder# cd ..
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# ls
+[0m[01;32mREADME.md[0m  [34;42mfolder[0m  [01;32mhello[0m  [01;32mscript-2022-09-08.log[0m  [01;32mtime-2022-09-08.txt[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# cd folder
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folderroot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folder# mv hello.cpp ../
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folderroot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folder# ls
+[0m[01;32mhola.cpp[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folderroot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1/folder# cd ..
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# ls
+[0m[01;32mREADME.md[0m  [34;42mfolder[0m  [01;32mhello[0m  [01;32mhello.cpp[0m  [01;32mscript-2022-09-08.log[0m  [01;32mtime-2022-09-08.txt[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# g++ --version
+g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# ./[K/hello
+Hello worl!
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   hello[m
+	[32mnew file:   hello.cpp[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mfolder/[m
+	[31mscript-2022-09-08.log[m
+	[31mtime-2022-09-08.txt[m
+
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# git log --since='2 weeks ago'
+[?1h=[33mcommit 80e2d1878d661f486e0be8d7d96d3f84a7054e44[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: CesarIgnacio <cesarignac@gmail.com>[m
+Date:   Wed Sep 7 12:21:32 2022 -0400[m
+[m
+    Create README.md[m
+[m
+[33mcommit 1f290975980fa84194f1fc2b6801e744a3d79b55[m[m
+Author: César <66285504+CesarIgnacio@users.noreply.github.com>[m
+Date:   Wed Aug 31 20:14:20 2022 -0400[m
+[m
+    Initial commit[m
+[K[?1l>]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   hello[m
+	[32mnew file:   hello.cpp[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mfolder/[m
+	[31mscript-2022-09-08.log[m
+	[31mtime-2022-09-08.txt[m
+
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# git add hello
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# git add hello.cpp
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/cisc3142/Exercise1# git add [K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on 2022-09-08 00:08:48-04:00 [COMMAND_EXIT_CODE="0"]
