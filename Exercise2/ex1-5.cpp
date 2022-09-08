@@ -1,5 +1,7 @@
 #include <iostream>
 
+//using namespace std; // for not having to write std::
+
 int main() {
 
     int v1, v2;
