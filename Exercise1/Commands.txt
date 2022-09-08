@@ -1,5 +1,7 @@
 Commands sheet:
 
+Related to GitHub
+
     - To check for new changes
         git status
     
@@ -15,3 +17,47 @@ Commands sheet:
     - To get changes from the server (ask)
         git pull
 
+
+
+Controls for Linux terminal
+
+    - Create a directory (folder)
+        mkdir -p [name]
+
+    - Remove a file or a directory with all its contet
+        rm [name]
+    
+    - Copy content from one file to another
+        cp [file1] [file2]
+
+    - Rename or move a directory or a file
+        mv [file1] [file2]
+
+    - List directory content
+        ls 
+    
+    - Show the name of current working directoy
+        pwd
+
+    - Clear terminal
+        clear 
+    
+    - Go to
+        cd /mnt/c/Users/cesar/Desktop
+    
+
+
+Record terminal
+
+    - To start recording
+        script script-$(date +%F).log --timing=time-$(date +%F).txt
+    
+    - To end
+        exit
+    
+    - To view
+        scriptreplay -s [script.log] [timing.txt]
+
+    - For help
+        scriptreplay --help
+    
