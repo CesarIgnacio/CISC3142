@@ -1,4 +1,4 @@
-Commands sheet:
+Commands sheet: for Linux command prompt
 
     - To check for new changes
         git status
