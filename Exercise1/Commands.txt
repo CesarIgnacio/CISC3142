@@ -1,4 +1,4 @@
-Commands sheet: for Linux command prompt
+Commands sheet:
 
     - To check for new changes
         git status
@@ -9,6 +9,9 @@ Commands sheet: for Linux command prompt
     - To commint changes
         git commit -m "[explanatory message]"
     
-    
+    - To send the changes (ask)
+        git puch -all
 
+    - To get changes from the server (ask)
+        git pull
 
