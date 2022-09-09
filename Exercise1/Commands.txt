@@ -1,4 +1,4 @@
-Commands sheet:
+Commands sheet in Linux terminal:
 
 Related to GitHub
 
