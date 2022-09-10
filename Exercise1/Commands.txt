@@ -45,6 +45,22 @@ Controls for Linux terminal
     - Go to
         cd /mnt/c/Users/cesar/Desktop
     
+    - Uninstall a software
+        sudo apt-get --purge remove [name of the program]
+    
+    - Open a file
+        cat [file name]
+    
+    - Create and open a text file. If the file exists it opens it, otherwise it creates it
+        nano [name].txt
+    
+    - To compile a .java file
+        javac [name].java
+    
+    - To run a java file
+        java [name]
+
+    
 
 
 Record terminal
