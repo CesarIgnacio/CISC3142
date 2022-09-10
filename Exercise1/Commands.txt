@@ -69,7 +69,16 @@ Related to Java
     - To run a java file
         java [name]
 
+
+
+Releted to C++
+
+    - To compile .cpp file
+        g++ [name].cpp -o [name]
     
+    - To run it
+        ./[name]
+   
 
 
 Record terminal
