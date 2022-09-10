@@ -24,14 +24,17 @@ Controls for Linux terminal
     - Create a directory (folder)
         mkdir -p [name]
 
-    - Remove a file or a directory with all its contet
-        rm [name]
+    - Remove options
+        rm [name] (remove files)
+        rm -d [name] (remove empty directories)
+        rm -r [name] (remove directories and their content)
     
     - Copy content from one file to another
         cp [file1] [file2]
 
     - Rename or move a directory or a file
-        mv [file1] [file2]
+        mv [old name] [new name]
+        mv [name] [new address]/[name]
 
     - List directory content
         ls 
