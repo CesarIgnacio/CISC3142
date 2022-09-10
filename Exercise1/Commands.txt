@@ -12,7 +12,7 @@ Related to GitHub
         git commit -m "[explanatory message]"
     
     - To send the changes (ask)
-        git puch -all
+        git puch --all
 
     - To get changes from the server (ask)
         git pull
