@@ -37,7 +37,8 @@ Controls for Linux terminal
         mv [name] [new address]/[name]
 
     - List directory content
-        ls 
+        ls
+        ls -l (shows them as a list)
     
     - Show the name of current working directoy
         pwd
@@ -46,17 +47,22 @@ Controls for Linux terminal
         clear 
     
     - Go to
-        cd /mnt/c/Users/cesar/Desktop
+        cd [address]
+        cd ../ (goes back one level of directory)
     
     - Uninstall a software
         sudo apt-get --purge remove [name of the program]
     
-    - Open a file
+    - View the content of a file
         cat [file name]
     
     - Create and open a text file. If the file exists it opens it, otherwise it creates it
         nano [name].txt
-    
+
+
+
+Related to Java
+
     - To compile a .java file
         javac [name].java
     
