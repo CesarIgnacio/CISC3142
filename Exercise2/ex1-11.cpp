@@ -29,7 +29,7 @@ int main() {
 
     // Prints all the integers inside the number range using a while loop
     std::cout << "\tUsing a while loop\n";
-    int aux = v1;
+    int aux = v1 + 1;
     while (aux < v2) {
         std::cout << aux << " ";
         aux++;
