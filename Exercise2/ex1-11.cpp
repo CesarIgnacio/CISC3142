@@ -20,11 +20,20 @@ int main() {
         v2 = aux;
     }
     
-    // Prints all the integers inside the number range
+    // Prints all the integers inside the number range using a for loop
+    std::cout << "\tUsing a for loop\n";
     for (size_t i = v1 + 1; i < v2; i++) {
         std::cout << i << " ";
     }
-    
+    std::cout << "\n" << std::endl;
+
+    // Prints all the integers inside the number range using a while loop
+    std::cout << "\tUsing a while loop\n";
+    int aux = v1;
+    while (aux < v2) {
+        std::cout << aux << " ";
+        aux++;
+    }
     std::cout << "\n";
 
     return 0;
