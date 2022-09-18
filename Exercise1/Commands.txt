@@ -13,11 +13,23 @@ Related to GitHub
         git commit -m "[explanatory message]"
     
     - To send the changes (ask)
-        git puch --all
+        git push --all
+        git push [origin (nickname of the URL to push to)] [branch]
 
     - To get changes from the server (ask)
         git pull
+       
+    - Create a new "local" repository
+        git init [name]
+    
+    - Link directory with GitHub repository
+        git remote [origin (nickname for the URL)] <URL>
 
+    - View your commits
+        git log
+        
+    - Shows all git options/commands
+        git config --global
 
 
 Controls for Linux terminal
@@ -25,6 +37,9 @@ Controls for Linux terminal
     - Create a directory (folder)
         mkdir -p [name]
 
+    - Create a new file
+        touch [file name]
+     
     - Remove options
         rm [name] (remove files)
         rm -d [name] (remove empty directories)
