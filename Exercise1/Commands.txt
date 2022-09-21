@@ -90,10 +90,13 @@ Related to Java
 Releted to C++
 
     - To compile .cpp file and naming the executable
-        g++ [name].cpp -o [name]
+        g++ [name].cpp -o [executable name]
     
-    - To run it
-        ./[name]
+    - To run it using the executable name
+        ./[executable name]
+    
+    - To compile .cpp file without naming the executable
+        g++ [name].cpp
    
     - To run without naming the executable
         ./a.out
