@@ -1,17 +1,17 @@
 2.1<br>
-    - short: short integer with minimum size of *16 bits*
-    - int: integer with minimum size of *16 bits*
-    - long: long integer with minimum size of *32 bits*
-    - long long: long integer with minimum size of *64 bits*
-    - float: single-precision floating-point *6 significant digits*
-    - double: double-precision floating-point *10 significant digits*
-    - unsigned type: all the bits represent the value **(ex. an 8-bit unsigned char holds values from 0 to 255)**
-    - signed type: the range should be evenly devided between positive and negative values **(ex. an 8-bit signed char holds values from -128 to 127)**
+- short: short integer with minimum size of *16 bits*
+- int: integer with minimum size of *16 bits*
+- long: long integer with minimum size of *32 bits*
+- long long: long integer with minimum size of *64 bits*
+- float: single-precision floating-point *6 significant digits*
+- double: double-precision floating-point *10 significant digits*
+- unsigned type: all the bits represent the value **(ex. an 8-bit unsigned char holds values from 0 to 255)**
+- signed type: the range should be evenly devided between positive and negative values **(ex. an 8-bit signed char holds values from -128 to 127)**
 
 2.2<br>
-    - rate : *float or double* it holds percentages
-    - principal : *float or double* it holds money so it needs at least 2 significant digits
-    - payment : *float or double* it holds money so it needs at least 2 significant digits
+- rate : *float or double* it holds percentages
+- principal : *float or double* it holds money so it needs at least 2 significant digits
+- payment : *float or double* it holds money so it needs at least 2 significant digits
 
 2.3<br>
 **output**
