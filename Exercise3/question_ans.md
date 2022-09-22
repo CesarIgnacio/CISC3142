@@ -51,9 +51,9 @@ f) illegal : it needs to be initialized<br>
 g) legal : <br>
 
 ## 2.28<br>
-a)
-b)
-c)
-d)
-e)
+a) <br>
+b) <br>
+c) <br>
+d) <br>
+e) <br>
 
