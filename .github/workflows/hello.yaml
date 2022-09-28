@@ -1,10 +1,10 @@
-name: My project
+name: My-project
 on: [push]
-- Jobs:
-        My project:
-                run-on: ubuntu-latest
-                steps:
-                        - run: echo "Running makrfile"
-                        - name: make
-                          run: make lab2
+    Jobs:
+        My-project:
+            run-on: ubuntu-latest
+            steps:
+                - run: echo "Running makrfile"
+                - name: make
+                - run: make lab2
 
