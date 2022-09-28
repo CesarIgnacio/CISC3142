@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-name: My-project
+=name: My-project
 on: [push]
     Jobs:
         My-project:
@@ -8,15 +7,3 @@ on: [push]
                 - run: echo "Running makrfile"
                 - name: make
                 - run: make lab2
-=======
-name: My project
-on: push
-- Jobs:
-        My project:
-                run-on: ubuntu-latest
-                steps:
-                        - run: echo "Running makrfile"
-                        - name: make
-                          run: make lab2
->>>>>>> a9669d179eafe3fc0533a4318417be553a5aeb6a
-
