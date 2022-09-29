@@ -10,4 +10,3 @@ jobs:
             - uses: actions/checkout@v2
             - name: Run 
               run: echo "Running markfile"
-            - run: make lab2
