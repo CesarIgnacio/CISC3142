@@ -1,9 +1,12 @@
-=name: My-project
-on: [push]
-    Jobs:
-        My-project:
-            run-on: ubuntu-latest
-            steps:
-                - run: echo "Running makrfile"
-                - name: make
-                - run: make lab2
+name: My project
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: Run 
+              run: echo "Running markfile"
