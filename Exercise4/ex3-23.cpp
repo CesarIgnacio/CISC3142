@@ -23,6 +23,7 @@ int main() {
         nums.push_back(i);
     }
 
+    cout << "The initial number in the array" << endl;
     printV(nums);
     cout << endl;
 
@@ -31,6 +32,7 @@ int main() {
         nums[i] = 2 * nums[i];
     }
     
+    cout << "They value vas doubled" << endl;
     printV(nums);
     cout << endl;
 

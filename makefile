@@ -9,3 +9,14 @@ lab2:
 
 lab4:
 	@echo "Running Lab4"
+	@echo "Running Ex3.17"
+	@cd Exercise4 && g++ ex3-17.cpp -o ex3-17.exe && ./ex3-17.exe
+	@echo "Running Ex3.23"
+	@cd Exercise4 && g++ ex3-23.cpp -o ex3-23.exe && ./ex3-23.exe
+	@echo "Running Ex4.28"
+	@cd Exercise4 && g++ ex4-28.cpp -o ex4-28.exe && ./ex4-28.exe
+	@echo "Running Practice Problem 1"
+	@cd Exercise4 && g++ inflation.cpp -o inflation.exe && ./inflation.exe
+	@echo "Running Practice Problem 2"
+	@cd Exercise4 && g++ nutrition.cpp -o nutrition.exe && ./nutrition.exe
+

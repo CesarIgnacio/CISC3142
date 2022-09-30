@@ -1,0 +1,65 @@
+Script started on 2022-09-30 15:50:41-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="156" LINES="40"]
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142# make lab4
+Running Lab4
+Running Ex3.17
+Enter a string ('end' stops the program)
+one
+enter another string
+two
+enter another string
+tr hrww  ee
+enter another string
+four
+enter another string
+fab  ive
+enter another string
+six
+enter another string
+seven  
+enter another string
+eight
+enter another string
+nine
+enter another string
+end
+done inputingPrinting Vector elements: 
+ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT 
+NINE 
+
+Running Ex3.23
+The initial number in the array
+1 2 3 4 5 6 7 8 9 10 
+
+They value vas doubled
+2 4 6 8 10 12 14 16 18 20 
+
+Running Ex4.28
+Size of boolean: 1 byte
+Size of char: 1 byte
+Size of short: 2 bytes
+Size of int: 4 bytes
+Size of long: 8 bytes
+Size of float: 4 bytes
+Size of double: 8 bytes
+
+Running Practice Problem 1
+Enter item value in dollars: 
+10
+Enter inflation rate in Pecentage:
+10
+Enter the number of years: 
+10
+Cost of item initially: 10
+After 10 years
+Inflation rate: 1.1
+Item will be worth: $25.9374
+
+Running Practice Problem 2
+Insert your future weight in pounds
+150
+The number of cans you can drink without dying is:  97198364
+
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142# exit
+exit
+
+Script done on 2022-09-30 15:51:34-04:00 [COMMAND_EXIT_CODE="0"]

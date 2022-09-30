@@ -20,7 +20,7 @@ int main() {
     //The amount of sweetener (in grams) that a 350 grams can of soda pop have.
     const double sweetPerCan = 0.0001;
 
-    cout << "Insert your future weight in pounds ";
+    cout << "Insert your future weight in pounds" << endl;
     cin >> weight;
 
     // Converting the weight from pounds to grams, and then finding the minimum amount of sweetener in grams that this person can handle.
@@ -33,6 +33,7 @@ int main() {
     int result = trunc(answer);
 
     cout<< "The number of cans you can drink without dying is:  " << result << endl;
+    cout << endl;
 
     return 0;
 }

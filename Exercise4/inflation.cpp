@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 int main () {
 
     // Declaring variables
@@ -27,13 +26,15 @@ int main () {
 
     // Calculates the inflation for every year
 	while (numberOfYears > 0){
-		thisYearsValue = thisYearsValue * inflationRate;
+		thisYearsValue *= inflationRate;
 		numberOfYears--;
 		}
 
-	cout<< "Cost of item initially: "<< initialValue<<"\n";
-	cout<<"After "<< initialNumberOfYears<<" years"<<"\n";
-	cout<<"inflation rate: "<< inflationRate<<"\n";
-	cout<<"item will be worth: $"<< thisYearsValue<<"\n";
+	cout << "Cost of item initially: " << initialValue << "\n";
+	cout << "After " << initialNumberOfYears << " years" << "\n";
+	cout << "Inflation rate: " << inflationRate << "\n";
+	cout << "Item will be worth: $" << thisYearsValue << "\n";
+    cout << endl;
 
+    return 0;
 	}

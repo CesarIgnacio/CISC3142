@@ -9,7 +9,7 @@ int main()
     int count8 = 0;
 
     string str0;
-    cout << "please enter a string. 'end' stops the program" << endl;
+    cout << "Enter a string ('end' stops the program)" << endl;
     cin >> str0;
 
     while (str0 != "end") {
@@ -18,7 +18,7 @@ int main()
             c = toupper(c);
 
         myVec.push_back(str0);
-        cout << "enter another string ";
+        cout << "enter another string" << endl;
         cin >> str0;
     }
 
@@ -34,6 +34,6 @@ int main()
             cout << endl;
         }
     }
-    cout << endl;
+    cout << endl << endl;
     return 0;
 }
