@@ -5,37 +5,29 @@ using namespace std;
 
 int main () {
 
+    // Declaring variables
 	double initialValue;
-
 	double inflationRate;
-
 	int numberOfYears;
 
+    // Input infomation
 	cout<< "Enter item value in dollars: \n";
-
 	cin >> initialValue;
 
 	cout <<"Enter inflation rate in Pecentage:\n";
-
 	cin >> inflationRate;
 
 	cout << "Enter the number of years: \n";
-
 	cin >> numberOfYears;
 
+
 	int initialNumberOfYears = numberOfYears;
-
-	inflationRate = inflationRate/100;
-
-	inflationRate = inflationRate+1.00;
-
+	inflationRate = (inflationRate/100) + 1.00;                 
 	double thisYearsValue = initialValue;
 
+    // Calculates the inflation for every year
 	while (numberOfYears > 0){
-
-
 		thisYearsValue = thisYearsValue * inflationRate;
-
 		numberOfYears--;
 		}
 
