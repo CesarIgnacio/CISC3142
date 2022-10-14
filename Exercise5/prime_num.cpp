@@ -2,22 +2,35 @@
 
 using namespace std;
 
+bool testPrime(int num) {
+    if (num == 0 || num == 1)
+    {
+        return false;
+    }
+    
+    for (int i = 2; i < num; i++)
+    {
+        if (num % i == 0)
+        {
+            return false;
+        }
+        
+    }
+    
+    return true;
+}
+
 int main() {
 
-    int count = 0;
-
-    cout << "1 ";
-    
-    for (int i = 2; i <= 100; i++) {
-        for (int j = i - 1; i > 0; i--) {
-            if (i % j == 0) {
-                count++;
-            }   
-        }
-        if (count > 3) {
+    cout << "These are the prime numbers up to 100" << endl;
+    for (int i = 2; i <= 100; i++)
+    {
+        if (testPrime(i))
+        {
             cout << i << " ";
         }
-        count = 0;
+        
     }
+    cout << endl << endl;
     
 }
