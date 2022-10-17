@@ -1,0 +1,22 @@
+Script started on 2022-10-16 20:30:15-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5# ./sum_digits.exe
+Enter a positive number 1234
+The sum of digits of the munber 1234 is: 10
+
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5# ./prime_num.exe
+These are the prime numbers up to 100
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5# ./linear_regression.exe < linear_regression.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cegress[1Pion.txt[A]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cegressi[1Pon.txt[A]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CRegression.txt[A]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C
+bash: linearRegression.txt: No such file or directory
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5# ./linear_regression.exe < linearRegresion.txt 
+Y^ = 2.2 + 1.25x
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5# stop
+
+Command 'stop' not found, but there are 18 similar ones.
+
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/C++ CISC 3142/CISC3142/Exercise5# exit
+exit
+
+Script done on 2022-10-16 20:31:39-04:00 [COMMAND_EXIT_CODE="127"]

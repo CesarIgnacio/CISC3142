@@ -13,6 +13,7 @@ int main() {
     string num;
     cin >> num;
 
+    // Uses the String Stream fuction to convert from string to integer
     ss << num;
     ss >> auxNum;
 
