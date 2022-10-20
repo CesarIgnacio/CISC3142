@@ -46,4 +46,5 @@ int main() {
     // Prints the final slope formula. It uses the method 'setprecision()' twice to imitate the result in the example
     cout << "Y^ = " << setprecision(2) << intercept << " + " << setprecision(3) << slope << "x" << endl;
 
+   return 0;
 }
