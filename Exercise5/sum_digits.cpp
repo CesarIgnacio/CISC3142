@@ -3,13 +3,13 @@
 
 using namespace std;
 
-int sum_digits() {
+int main() {
 
     stringstream ss;
     int auxNum;
     int sum = 0;
 
-    cout << "Enter a positive number ";
+    cout << "Enter a more than one digit positive number ";
     string num;
     cin >> num;
 
@@ -22,7 +22,7 @@ int sum_digits() {
         auxNum = auxNum / 10;
     }
     
-    cout << "The sum of digits of the munber " << num << " is: " << sum << endl << endl;
+    cout << "The sum of digits of the number " << num << " is: " << sum << endl << endl;
 
 
 
