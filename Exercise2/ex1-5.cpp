@@ -2,7 +2,7 @@
 
 //using namespace std; // for not having to write std::
 
-int main() {
+void ex1_5() {
 
     int v1, v2;
 
@@ -14,5 +14,4 @@ int main() {
     std::cout << " and " << v2;
     std::cout << " is " << v1 + v2 << std::endl;
 
-    return 0;
 }

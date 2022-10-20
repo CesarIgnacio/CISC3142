@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int sum_digits() {
 
     stringstream ss;
     int auxNum;

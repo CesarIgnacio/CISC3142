@@ -14,7 +14,7 @@ double maxSweetCom(double weight) {
     return weight / 7;
 }
 
-int main() {
+int nutrition() {
 
     double weight;
     //The amount of sweetener (in grams) that a 350 grams can of soda pop have.

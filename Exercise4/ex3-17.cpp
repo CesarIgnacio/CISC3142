@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-int main()
+int ex3_17()
 {
 
     vector<string> myVec;
