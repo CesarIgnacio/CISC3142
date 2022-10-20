@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int inflation() {
+int main() {
 
     // Declaring variables
 	double initialValue;

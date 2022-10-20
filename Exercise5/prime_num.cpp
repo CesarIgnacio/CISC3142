@@ -19,7 +19,7 @@ bool testPrime(int num) {
     return true;
 }
 
-int prime_num() {
+int main() {
 
     cout << "These are the prime numbers up to 100" << endl;
     

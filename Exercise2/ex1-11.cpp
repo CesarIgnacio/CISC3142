@@ -1,6 +1,6 @@
 #include <iostream>
 
-int ex1_11() {
+int main() {
 
     int v1, v2;
 

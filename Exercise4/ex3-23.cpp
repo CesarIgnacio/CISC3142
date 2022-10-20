@@ -13,7 +13,7 @@ void printV(vector<int> v) {
     cout << endl;
 }
 
-int ex3_23() {
+int main() {
 
     // Declaring the int vector named nums
     vector<int> nums;

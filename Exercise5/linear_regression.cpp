@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int linear_regression() {
+int main() {
     // Declaring all the variables
     double x;
     double y;

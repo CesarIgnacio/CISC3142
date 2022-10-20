@@ -2,7 +2,7 @@
 
 //using namespace std; // for not having to write std::
 
-void ex1_5() {
+void main() {
 
     int v1, v2;
 

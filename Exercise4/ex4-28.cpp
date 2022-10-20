@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int ex4_28() 
+int main() 
 {    
     cout << "Size of boolean: " << sizeof(bool) << " byte" << endl;
     cout << "Size of char: " << sizeof(char) << " byte" << endl;
