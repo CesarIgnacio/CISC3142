@@ -24,6 +24,5 @@ int main() {
     
     cout << "The sum of digits of the number " << num << " is: " << sum << endl << endl;
 
-
-
+   return 0;
 }
