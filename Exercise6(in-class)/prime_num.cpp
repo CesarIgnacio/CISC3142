@@ -40,6 +40,10 @@ namespace p5
         }
         cout << endl
              << endl;
+<<<<<<< HEAD
         return 0; 
+=======
+        return 0;  
+>>>>>>> 537be8bce2680ae66558bc2a4f6ecf811ad9d086
     }
 }
